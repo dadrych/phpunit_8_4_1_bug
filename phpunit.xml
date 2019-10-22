@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- https://phpunit.readthedocs.io/en/8.4/configuration.html -->
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="http://schema.phpunit.de/8.4/phpunit.xsd"
+         colors="true"
+         backupGlobals="true"
+         bootstrap="vendor/autoload.php"
+         verbose="true"
+>
+</phpunit>
